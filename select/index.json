@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Back Stage",
+  "base_artist": "YZERR",
+  "createdAt": "2026-01-06T05:12:48.999492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back Stage Pacin'",
+      "artist": "Brother Ali",
+      "has_synced": true,
+      "path": "select/01_Back_Stage_Pacin'_Brother_Ali.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back Stage Room",
+      "artist": "The Riot Before",
+      "has_synced": false,
+      "path": "select/02_Back_Stage_Room_The_Riot_Before.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back Stage Passes",
+      "artist": "Kool Keith",
+      "has_synced": false,
+      "path": "select/03_Back_Stage_Passes_Kool_Keith.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YZERR / Back Stage feat. Tiji Jojo (Official Video)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/04_YZERR___Back_Stage_feat._Tiji_Jojo_(Official_Video)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back Stage (feat. Tiji Jojo)",
+      "artist": "Yzerr",
+      "has_synced": true,
+      "path": "select/05_Back_Stage_(feat._Tiji_Jojo)_Yzerr.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back Stage Pacin'",
+      "artist": "Brother Ali",
+      "has_synced": true,
+      "path": "select/06_Back_Stage_Pacin'_Brother_Ali.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "12 - Back Stage Pacin",
+      "artist": "Brother Ali",
+      "has_synced": true,
+      "path": "select/07_12_-_Back_Stage_Pacin_Brother_Ali.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back Stage Pacin",
+      "artist": "Brother Ali",
+      "has_synced": true,
+      "path": "select/08_Back_Stage_Pacin_Brother_Ali.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back Stage",
+      "artist": "Midori Sour",
+      "has_synced": false,
+      "path": "select/09_Back_Stage_Midori_Sour.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Back Stage",
+      "artist": "YZERR, Tiji Jojo",
+      "has_synced": false,
+      "path": "select/pl_01_Back_Stage_YZERR,_Tiji_Jojo.txt"
+    }
+  ]
+}
